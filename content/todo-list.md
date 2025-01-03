@@ -7,3 +7,8 @@ draft: true
 - [ ] Norte 
 - [ ] Campanhas
 - [ ] Campanha Barber of Silverymoon
+- [ ] Mercado Municipal
+- [ ] Margem Norte
+- [ ] Margem Sul
+- [ ] Ponte da Lua
+- [ ] Methrammar Aerasumé

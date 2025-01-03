@@ -9,4 +9,3 @@ A Costa da Espada é a faixa de território no noroeste de Faerûn, no lado oest
 
 ![[Sword Coast.jpg]]
 _Mapa da Costa da Espada. [[Sword Coast.jpg|Qualidade máxima]]_
-## Referências
