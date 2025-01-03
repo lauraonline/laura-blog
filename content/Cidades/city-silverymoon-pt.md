@@ -18,7 +18,7 @@ A cidade é dividida em dois lados, a Margem Norte e a Margem Sul, divididas pel
 
 A maioria dos templos e residências nobres são localizadas ao leste do Mercado Municipal, mais notavelmente o Alto Palácio, residência de Methrammar Aerasumé, filho de Alustriel Silverhand e governante da cidade.
 
-A Margem Sul, originalmente construída para 
+A Margem Sul foi originalmente construída para abrigar galpões e como uma extensão do setor portuário, mas expandiu-se pra ter a mesma população da Margem Norte e é conhecida por ser o centro acadêmico da cidade, contendo a maioria das escolas que formam a Universidade Mágica de Silverymoon.
 ## Galeria
 
 ![[Silverymoon.jpg|300]]

@@ -12,3 +12,4 @@ draft: true
 - [ ] Margem Sul
 - [ ] Ponte da Lua
 - [ ] Methrammar Aerasumé
+- [ ] Universidade Mágica de Silverymoon
