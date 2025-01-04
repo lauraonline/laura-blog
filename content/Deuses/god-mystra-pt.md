@@ -7,7 +7,7 @@ Conhecida como A Mãe da Magia e Nossa Senhora da Magia, Mystra é a deusa da ma
 
 A única descrição conhecida da mortal que se tornou Mystra é de uma "bela camponesa" que estava apenas começando seus estudos mágicos.
 
-Como deusa, Mystra pode mudar de forma à vontade e rumores oriundos de mortais que a viam relatavam que ela mudava de aparência constantemente.
+Como deusa, Mystra pode mudar de forma à vontade e rumores oriundos de mortais que a veem relatam que ela muda de aparência constantemente.
 
 ## Personalidade
 
