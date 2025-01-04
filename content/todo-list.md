@@ -12,7 +12,7 @@ draft: true
 - [x] Ponte da Lua
 - [x] Methrammar Aerasumé
 - [x] Universidade Mágica de Silverymoon
-- [ ] Alto Palácio
+- [x] Alto Palácio
 - [x] Faerûn
 - [x] Neverwinter
 - [x] Amn

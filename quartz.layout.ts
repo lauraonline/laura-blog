@@ -25,7 +25,16 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer({title: "Índice", folderDefaultState: "collapsed"})),
+    Component.DesktopOnly(Component.Explorer(
+      {
+        title: "Índice",
+        folderDefaultState: "collapsed",
+        filterFn: (node) => {
+          return node.file?.frontmatter?.tags?.includes("exclude") !== true
+        },
+      }
+    )
+  ),
   ],
   right: [
     Component.DesktopOnly(Component.TableOfContents()),

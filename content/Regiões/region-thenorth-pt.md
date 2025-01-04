@@ -1,5 +1,6 @@
 ---
 title: Norte da Costa da Espada
+tags: []
 ---
 O Norte da Costa da Espada, conhecido como apenas O Norte, é uma região de Faerûn repleta de fauna selvagem, punida por invernos cruéis, e abrigo de muitos aventureiros intrépidos e monstros temíveis. No entanto, apesar da reputação, o Norte abriga três das cidades mais prósperas de Faerûn: [[city-neverwinter-pt|Neverwinter, a Joia do Norte]], [[city-waterdeep-pt|Waterdeep, a Cidade dos Esplendores]], e [[city-silverymoon-pt|Silverymoon, a Gema do Norte]].
 
