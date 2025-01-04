@@ -15,6 +15,7 @@ O conteúdo desses artigos, por mais que siga o enredo dos Reinos Esquecidos bem
 - **[[campaign-thebarberofsilverymoon-jan25-pt|O Barbeiro de Silverymoon (Jan. 2025)]]**
 ## Pessoas
 - **[[person-alustriel-pt|Alustriel Silverhand]]**
+- **[[person-methrammar-pt|Methrammar Aerasumé]]**
 ## Cidades
 - **[[city-baldursgate-pt|Baldur's Gate]]**
 - **[[city-daggerford-pt|Daggerford]]**
