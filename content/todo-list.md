@@ -2,14 +2,23 @@
 draft: true
 ---
 - [ ] Jooge
-- [ ] Mystra
-- [ ] Alustriel
-- [ ] Norte 
-- [ ] Campanhas
-- [ ] Campanha Barber of Silverymoon
-- [ ] Mercado Municipal
-- [ ] Margem Norte
-- [ ] Margem Sul
-- [ ] Ponte da Lua
-- [ ] Methrammar Aerasumé
-- [ ] Universidade Mágica de Silverymoon
+- [x] Mystra
+- [x] Alustriel
+- [x] Selûne
+- [x] Norte 
+- [x] Campanhas
+- [x] Campanha Barber of Silverymoon
+- [x] Mercado Municipal
+- [x] Ponte da Lua
+- [x] Methrammar Aerasumé
+- [x] Universidade Mágica de Silverymoon
+- [ ] Alto Palácio
+- [x] Faerûn
+- [x] Neverwinter
+- [x] Amn
+- [x] Waterdeep
+- [x] Icewind Dale
+- [x] Daggerford
+- [x] Anauroch
+- [x] Baldur's Gate
+- [x] Toril
