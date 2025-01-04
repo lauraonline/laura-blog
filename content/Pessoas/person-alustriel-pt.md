@@ -3,7 +3,7 @@ title: Alustriel Silverhand
 ---
 Lady Alustriel Silverhand é uma maga humana que serviu por muitos anos como a governante da cidade de [[city-silverymoon-pt|Silverymoon]].
 
-É do conhecimento de **habitantes de Silverymoon** que a Senhora da Esperança, apelido de Alustriel, era incrivelmente habilidosa no uso da magia, sendo uma das [[god-mystra-pt#Sete Irmãs|Sete Irmãs]] escolhidas por [[god-mystra-pt|Mystra]]. Seu nome era reconhecido em qualquer lugar do [[region-thenorth-pt|Norte]], especialmente renomada por seu amor e devoção ao seu povo. 
+A Senhora da Esperança, apelido de Alustriel, era incrivelmente habilidosa no uso da magia, sendo uma das [[god-mystra-pt#Sete Irmãs|Sete Irmãs]] escolhidas por [[god-mystra-pt|Mystra]]. Seu nome era reconhecido em qualquer lugar do [[region-thenorth-pt|Norte]], especialmente renomada por seu amor e devoção ao seu povo. 
 Era uma governante sábia e justa, mas também sabia ser implacável quando certos esforços diplomáticos assim exigiam. Alguns diriam que, por esta razão e muitas outras, ela se tornou a soberana mais querida em toda [[region-faerun-pt|Faerûn]], e a maioria de seus súditos teria feito qualquer coisa na medida do possível para evitar que algum mal lhe acontecesse.
 ## História
 
