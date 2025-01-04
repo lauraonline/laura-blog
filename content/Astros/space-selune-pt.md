@@ -12,7 +12,7 @@ Selûne é seguida no céu pelas Lágrimas de Selûne, uma constelação de corp
 
  Conhecida como Nossa Senhora da Prata, a Donzela da Lua e a Senhora Branca da Noite, Selûne também é o nome da deusa da lua na mitologia [[region-faerun-pt|Faerûniana]].
 
-Acredita-se que ela controla o fluxo das marés numa tentativa de confortar os necessitados durante a noite. Sua lua brilha como uma luz na escuridão, mantendo o mal afastado. Ela infundiu seu espírito na lua, e lá eternamente vigia o mundo.
+Acredita-se que ela controlava o fluxo das marés numa tentativa de confortar os necessitados durante a noite. Sua lua brilha como uma luz na escuridão, mantendo o mal afastado. Ela infundiu seu espírito na lua, e lá eternamente vigiava o mundo.
 ## Lágrimas de Selûne
 
 Vista de Toril, enquanto Selûne aparenta ter o tamanho de um punho fechado a um braço de distância, as Lágrimas de Selûne se estendem por quase três palmos de largura à mesma distância. Do solo, as Lágrimas parecem estrelas e são frequentemente identificadas como nove (os outros corpos que compõem o aglomerado são muito indistintos para serem distinguidos). 
