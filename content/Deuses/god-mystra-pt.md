@@ -11,7 +11,7 @@ Como deusa, Mystra pode mudar de forma à vontade e rumores oriundos de mortais 
 
 ## Personalidade
 
-Mystra é considerada uma manifestação do Equilíbrio Cósmico — mantendo a ordem no mundo da magia quando as coisas tendem a sair do controle. Por exemplo, um de seus primeiros atos como deusa foi proibir o uso de toda magia acima do nono nível, em um evento que entre historiadores, ficou conhecido como o Banimento de Mystra. Ela não se preocupa tanto com a ética do Bem versus Mal, desde que as leis da magia sejam mantidas.
+Mystra é considerada uma manifestação do Equilíbrio Cósmico — mantendo a ordem no mundo da magia quando as coisas tendem a sair do controle. Por exemplo, um de seus primeiros atos como deusa foi proibir o uso de toda magia acima do nono nível, em um evento que, entre historiadores, ficou conhecido como o Banimento de Mystra. Ela não se preocupa tanto com a ética do Bem versus Mal, desde que as leis da magia sejam mantidas.
 
 ## Sete Irmãs
 
