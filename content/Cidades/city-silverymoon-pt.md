@@ -17,7 +17,7 @@ A cidade é dividida em dois lados, a Margem Norte e a Margem Sul, divididas pel
 
 É do conhecimento dos **habitantes de Silverymoon** que a cidade tem 3 portões na Margem Norte, ao oeste, norte e leste. Fora dos portões, existem alguns assentamentos, majoritariamente de viajantes que não estão interessados em pagar por um quarto dentro da cidade.
 
-Uma grande área comercial conhecida como o [[place-market-silverymoon-pt|Mercado Municipal]] estende-se desde o portão norte até a margem do rio, e espalhando-se ao longo da área portuária, providenciando espaço pra comerciantes instalarem suas tendas. A maioria dos templos e residências nobres são localizadas ao leste do Mercado Municipal, mais notavelmente o [[place-highpalace-silverymoon-pt|Alto Palácio]].
+Uma grande área comercial conhecida como o [[place-market-silverymoon-pt|Mercado Municipal]] estende-se desde o portão norte até a margem do rio, e espalha-se ao longo da área portuária, providenciando espaço pra comerciantes instalarem suas tendas. A maioria dos templos e residências nobres são localizadas ao leste do Mercado Municipal, mais notavelmente o [[place-highpalace-silverymoon-pt|Alto Palácio]].
 
 A Margem Sul foi originalmente construída para abrigar galpões e como uma extensão do setor portuário, mas expandiu-se pra ter a mesma população da Margem Norte e é conhecida por ser o centro acadêmico da cidade, contendo a maioria das escolas que formam a [[place-university-silverymoon-pt|Universidade Mágica de Silverymoon]].
 ## Galeria
