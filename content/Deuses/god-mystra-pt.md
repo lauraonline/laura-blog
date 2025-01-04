@@ -15,7 +15,7 @@ Mystra é considerada uma manifestação do Equilíbrio Cósmico — mantendo a 
 
 ## Sete Irmãs
 
-As Sete Irmãs são sete mulheres imortais, todas escolhidas de Mystra e filhas da mesma. Eram todas usuárias de magia nascidas de uma mulher feiticeira, a qual Mystra possuiu para dar à luz às crianças.
+As Sete Irmãs são sete mulheres imortais, todas escolhidas de Mystra e filhas da mesma. Elas são todas usuárias de magia nascidas de uma mulher feiticeira, a qual Mystra possuiu para dar à luz às crianças.
 
 > Sete estrelas no céu a brilhar,
 >
