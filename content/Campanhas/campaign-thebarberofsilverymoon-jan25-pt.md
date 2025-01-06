@@ -17,6 +17,13 @@ O Barbeiro de Silverymoon é uma campanha realizada em janeiro de 2025.
 
 **Ver também:** [[meta-session0-pt|Sessão Zero]].
 
+### Regras da casa
+
+- Poções podem ser tomadas com ação bônus. Ao escolher usar uma ação padrão pra bebê-la, obtenha o benefício máximo da poção.
+- Poções podem ser arremessadas com uma ação padrão. Ao aterrissar, o frasco quebra, o alvo e quaisquer seres adjacentes recebem o efeito da poção.
+- Munição não é contada - se o personagem tiver um arco, tem infinitas flechas.
+- Ao chegar em 0 HP, o personagem pode escolher sobreviver sem rolagens, mas com um ferimento grave (surdo de um ouvido, perder um dedo, joelho capenga...).
+
 **Preencha o formulário de dúvidas e segurança! Clique [aqui](https://forms.gle/eG9umV2LXAvUkiK39).**
 
 > [!info] Nota da Mestre
