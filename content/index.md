@@ -1,5 +1,5 @@
 ---
-title: Bem-vindo(a) à Laura's Master Wiki!
+title: Bem-vindo(a) ao blog da Laura!
 enableToc: false
 ---
 Esse site será um recurso pros meus jogadores se familiarizarem com os cenários das minhas campanhas de RPG, principalmente os Reinos Esquecidos. Eu também planejo publicar diários e acontecimentos das campanhas nas páginas delas, além da informação necessária para os jogadores.
