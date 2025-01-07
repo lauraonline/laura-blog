@@ -13,7 +13,9 @@ O Barbeiro de Silverymoon é uma campanha realizada em janeiro de 2025.
 - **Progressão:** Os *player characters* (PCs) começarão no nível 4 e terminarão a campanha no nível 6. Ao final de cada sessão, os personagens passarão de nível.
 - **Feat:** Cada PC começará com um feat de graça, além do feat do nível 4.
 - **Laços do Destino:** Pra cada conexão pré-existente com outro PC, um PC ganhará um ponto de habilidade extra e uma *expertise*. Uma conexão válida deve consistir em um estado de relacionamento claro (mentor, rival, amigo, parceiro, etc).
-- **Fichas:** As fichas devem ser entregues 3 dias antes da primeira sessão ou antes disso. Os jogadores podem usar *standard array* ou *point buy* para distribuir seus pontos de habilidade.
+- **Fichas:** As fichas devem ser entregues 3 dias antes da primeira sessão ou antes disso.
+	- **Pontos de habilidade:** *Standard array* ou *point buy*.
+	- **Pontos de vida:** Rolagem ou média.
 
 **Ver também:** [[meta-session0-pt|Sessão Zero]].
 
