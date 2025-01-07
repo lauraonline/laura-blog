@@ -25,6 +25,7 @@ O Barbeiro de Silverymoon é uma campanha realizada em janeiro de 2025.
 - Poções podem ser arremessadas com uma ação padrão. Ao aterrissar, o frasco quebra, o alvo e quaisquer seres adjacentes recebem o efeito da poção.
 - Munição não é contada - se o personagem tiver um arco, tem infinitas flechas.
 - Ao chegar em 0 HP, o personagem pode escolher sobreviver sem rolagens, mas com um ferimento grave (surdo de um ouvido, perder um dedo, joelho capenga...).
+- O estado "Molhado" causa vulnerabilidade a dano elétrico e gélido (cold) e resistência a dano ígneo (fire).
 
 **Preencha o formulário de dúvidas e segurança! Clique [aqui](https://forms.gle/eG9umV2LXAvUkiK39).**
 
