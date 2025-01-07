@@ -5,7 +5,7 @@ title: Silverymoon
 > É fácil viajar para Silverymoon buscando conhecimento sobre um tópico ou outro, e se aprofundar tanto, mas tanto em pesquisa que uma vida inteira acaba dedicando-se a isso — ou percebe-se que era o estudo, e não as descobertas resultantes, que realmente desejava-se.
 >  — *Volothamp Geddarm*
 
-Silverymoon é uma cidade localizada no norte da [[region-swordcoast-pt|Costa da Espada]] famosa por sua tradição de magia; inúmeros magos, feiticeiros, bardos e outros usuários de magia habitam a cidade e tornam-a o grande centro de cultura e aprendizado do [[region-thenorth-pt|Norte]] (além de [[city-waterdeep-pt|Waterdeep]]), além de ter sido governada por Alustriel Silverhand — uma maga poderosa fortemente ligada a [[god-mystra-pt|Mystra]] — por séculos.
+Silverymoon é uma cidade localizada no norte da [[region-swordcoast-pt|Costa da Espada]] famosa por sua tradição de magia; inúmeros magos, feiticeiros, bardos e outros usuários de magia habitam a cidade e tornam-a o grande centro de cultura e aprendizado do [[region-thenorth-pt|Norte]] (além de [[city-waterdeep-pt|Waterdeep]]), além de ter sido governada por [[person-alustriel-pt|Alustriel Silverhand]] — uma maga poderosa fortemente ligada a [[god-mystra-pt|Mystra]] — por séculos.
 
 A metrópole também é conhecida por ser um lugar de paz e prosperidade entre várias raças, a maioria delas sendo humanos e elfos (mesmo que outras raças sejam bem-vindas, contanto que não causem problemas), graças à proficiência diplomática de Alustriel.
 
