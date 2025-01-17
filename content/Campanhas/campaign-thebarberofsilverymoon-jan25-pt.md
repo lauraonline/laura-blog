@@ -28,6 +28,7 @@ O Barbeiro de Silverymoon é uma campanha realizada em janeiro de 2025.
 - O estado "Molhado" causa vulnerabilidade a dano elétrico e gélido (cold) e resistência a dano ígneo (fire).
 - Druidas podem trocar de forma bestial sem gastar um uso de forma bestial, mas 
 - Druidas tem a magia *Speak with Animals* de graça.
+- Druidas podem trocar sua forma selvagem atual com uma ação bônus, sem gastar um uso de forma selvagem. Se a forma selvagem atual estiver com menos da metade da vida, a nova forma selvagem começa com metade da vida.
 
 **Preencha o formulário de dúvidas e segurança! Clique [aqui](https://forms.gle/eG9umV2LXAvUkiK39).**
 
