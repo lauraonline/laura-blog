@@ -1,6 +1,15 @@
 ---
-draft: true
+draft: false
+tags:
+  - exclude
 ---
+## D&D
+
+[Livro do Jogador 5e (PDF)](https://bibliotecaelfica.org/2023/01/15/dd-5e-livro-do-jogador-fundo-branco/)
+
+[Player's Handbook 3.5e (PDF)](https://web.mit.edu/dvp/Public/butters-lululu.pdf)
+
+[Runeterra Suplemento de Campanha 5e (PDF)](https://bibliotecaelfica.org/2023/01/15/dd-5e-runeterra-league-of-legends-rpg-v-1-01/)
 
 [Realmspace (PDF)](https://archive.org/details/tsr09312spelljammerrealmspace/)
 
@@ -19,3 +28,9 @@ draft: true
 [Volo's Guide to the North (PDF)](http://forum.nwnights.ru/uploads/rulebooks/Forgotten_Realms/Volo%27s_Guide_to_the_North.pdf)
 
 [Volo's Guide to the Sword Coast (PDF)](https://img.4plebs.org/boards/tg/image/1445/33/1445338244569.pdf)
+
+## CPR
+
+[Cyberpunk RED (PDF)](https://archive.org/details/cyberpunk-red)
+
+[Cyberpunk 2077 in Cyberpunk RED](https://drive.google.com/file/d/17vrNZQ-huvQJfx2-OxYnLqI6Xw4_f_lG/view)
